@@ -1,3 +1,3 @@
 # testrepo
 Creating a trial repository for IBM data Science course
-Ita a mardown file in this repository
+Its a markdown file in this repository
